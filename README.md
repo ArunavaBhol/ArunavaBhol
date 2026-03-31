@@ -1,5 +1,11 @@
-## Hi there 👋
+#🚀 About Me:
 
+🎓 3rd-year Computer Science & Engineering student with a strong foundation in programming and problem-solving, primarily using C++. I have a deep interest in Data Structures & Algorithms and continuously strive to improve my coding skills through consistent practice on competitive programming platforms.
+💻 Proficient in C and C++, with a solid understanding of core programming concepts, and I am currently expanding my skill set by learning Python and exploring new areas of software development.
+📊 With over 800+ problems solved on CodeChef, 50+ problems on Codeforces, and a 5⭐ rating in C++ on HackerRank, I have developed strong analytical thinking and the ability to approach complex problems efficiently.
+🛠️ My technical exposure includes working with SQL, basic web technologies and using tools such as VS Code and Linux-based systems for development and scripting.
+🌱 Currently focused on strengthening my DSA skills, improving problem-solving consistency, and preparing myself for top-tier software engineering roles in leading tech companies.
+⚡ Always eager to learn, build, and grow — aiming to transform my skills into impactful real-world applications.
 <!--
 **ArunavaBhol/ArunavaBhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
