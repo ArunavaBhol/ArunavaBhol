@@ -1,4 +1,37 @@
 # 💫 About Me:
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Arunava Bhol"
+        self.role = "3rd-Year BTech CSE Student"
+        self.university = "Techno India University"
+        
+        self.core_skills = ["C", "C++", "HTML", "Linux/Bash"]
+        self.also_knows = ["Python", "Java", "SQL"]
+        
+        self.current_focus = [
+            "Advanced IoT & AI Integration",
+            "Neural Signal Processing & Human Computer Interaction"
+        ]
+        
+    def get_current_goals(self):
+        return {
+            "competitive_programming": "Reach Candidate Master (Violet) on Codeforces",
+            "active_project": "Developing DreamSense (EEG-based trauma rehab framework)",
+            "creative_outlet": "Building a cohesive personal brand & storytelling"
+        }
+
+    def say_hi(self):
+        print("Always eager to learn, build, and grow. Let's collaborate!")
+
+me = Developer()
+me.say_hi()
+```
+<div align="center">
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Competitive+Programmer;Specialist+on+Codeforces;Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer;Always+eager+to+learn%2C+build%2C+and+grow.;Building+a+cohesive+personal+brand;Let's+collaborate!" alt="Typing SVG" />
+  </a>
+</div>
 🎓 3rd-year B.Tech Computer Science & Engineering student with a strong foundation in programming and problem-solving, primarily using C++. I have a deep interest in Data Structures & Algorithms and continuously strive to improve my coding skills through consistent practice on competitive programming platforms.<br><br>💻 Proficient in C and C++, with a solid understanding of core programming concepts, and I am currently expanding my skill set by learning Python and exploring new areas of software development.<br><br>📊 With over 800+ problems solved on CodeChef, 100+ problems on Codeforces, and a 5⭐ rating in C++ on HackerRank, I have developed strong analytical thinking and the ability to approach complex problems efficiently.<br><br>🛠️ My technical exposure includes working with SQL, basic web technologies and using tools such as VS Code and Linux-based systems for development and scripting.<br><br>🌱 Currently focused on strengthening my DSA skills, improving problem-solving consistency, and preparing myself for top-tier software engineering roles in leading tech companies.<br><br>⚡ Always eager to learn, build, and grow — aiming to transform my skills into impactful real-world applications.
 
 
