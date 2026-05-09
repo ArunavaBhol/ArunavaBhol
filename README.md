@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hi,%20I'm%20Arunava%20Bhol&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Arunava%20Bhol&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
   <br/>
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Codeforces+Specialist;Cleared+TCS+CodeVita+(Both+Rounds);Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Specialist+on+Codeforces;Cleared+TCS+CodeVita+(Both+Round+1+and+2);Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer" alt="Typing SVG" />
   </a>
   <br/>
   <p>
