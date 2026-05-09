@@ -286,7 +286,27 @@ me = Developer()
     </tr>
   </table>
 </div>
+---
 
+## <img src="https://api.iconify.design/ph/crosshair-bold.svg?color=%2338BDF8" width="28" /> Current Focus Loop
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🧠 Deepen IoT & AI Knowledge] -->|Apply to| B(🚀 Build DreamSense)
+    B -->|Refine Logic| C{💻 C++ & Linux Grinds}
+    C -->|Compete| D[🏆 Codeforces Contests]
+    D -->|Identify Weaknesses| A
+    
+    style A fill:#0f172a,stroke:#38BDF8,stroke-width:2px,color:#fff
+    style B fill:#0f172a,stroke:#22C55E,stroke-width:2px,color:#fff
+    style C fill:#0f172a,stroke:#EAB308,stroke-width:2px,color:#fff
+    style D fill:#0f172a,stroke:#8B5CF6,stroke-width:2px,color:#fff
+```
+
+*(Continuously iterating between theory, building, and competitive programming)*
+</div>
 ---
 
 ## <img src="https://api.iconify.design/ph/lightbulb-filament-bold.svg?color=%23EAB308" width="28" /> Philosophy
