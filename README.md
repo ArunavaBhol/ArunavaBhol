@@ -1,79 +1,315 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Hi,%20I'm%20Arunava%20Bhol&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Codeforces+Specialist;Cleared+TCS+CodeVita+(Both+Rounds);Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer" alt="Typing SVG" />
+  </a>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Background-BTech%20CSE-22C55E?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Background"/>
+    <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20IoT%20%26%20AI-38BDF8?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Focus"/>
+    <img src="https://img.shields.io/badge/Mindset-Competitive%20Programmer-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Mindset"/>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%2338BDF8" width="28" /> What Drives Me
+
+<div align="center">
+
 ```python
 class Developer:
     def __init__(self):
         self.name = "Arunava Bhol"
-        self.role = "3rd-Year BTech CSE Student"
-        self.university = "Techno India University"
+        self.role = "3rd-Year BTech CSE Student @ Techno India University"
+        self.core_skills = ["C/C++", "Linux/Bash", "Java", "Python"]
         
-        self.core_skills = ["C", "C++", "HTML", "Linux/Bash"]
-        self.also_knows = ["Python", "Java", "SQL"]
-        
-        self.current_focus = [
-            "Advanced IoT & AI Integration",
-            "Neural Signal Processing & Human Computer Interaction"
-        ]
-        
-    def get_current_goals(self):
+    def get_milestones(self):
         return {
-            "competitive_programming": "Reach Candidate Master (Violet) on Codeforces",
-            "active_project": "Developing DreamSense (EEG-based trauma rehab framework)",
-            "creative_outlet": "Building a cohesive personal brand & storytelling"
+            "competitive_programming": "Specialist on Codeforces",
+            "hackathons": "Cleared Both Rounds of TCS CodeVita Season 13",
+            "active_project": "DreamSense (EEG-based trauma rehab framework)",
+            "long_term_goal": "Reach Candidate Master (Violet) on CF"
         }
 
-    def say_hi(self):
-        print("Always eager to learn, build, and grow. Let's collaborate!")
-
 me = Developer()
-me.say_hi()
 ```
-<div align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Competitive+Programmer;Specialist+on+Codeforces;Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer;Always+eager+to+learn%2C+build%2C+and+grow.;Building+a+cohesive+personal+brand;Let's+collaborate!" alt="Typing SVG" />
-  </a>
+
 </div>
-🎓 3rd-year B.Tech Computer Science & Engineering student with a strong foundation in programming and problem-solving, primarily using C++. I have a deep interest in Data Structures & Algorithms and continuously strive to improve my coding skills through consistent practice on competitive programming platforms.<br><br>💻 Proficient in C and C++, with a solid understanding of core programming concepts, and I am currently expanding my skill set by learning Python and exploring new areas of software development.<br><br>📊 With over 800+ problems solved on CodeChef, 100+ problems on Codeforces, and a 5⭐ rating in C++ on HackerRank, I have developed strong analytical thinking and the ability to approach complex problems efficiently.<br><br>🛠️ My technical exposure includes working with SQL, basic web technologies and using tools such as VS Code and Linux-based systems for development and scripting.<br><br>🌱 Currently focused on strengthening my DSA skills, improving problem-solving consistency, and preparing myself for top-tier software engineering roles in leading tech companies.<br><br>⚡ Always eager to learn, build, and grow — aiming to transform my skills into impactful real-world applications.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arunava-bhol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunavabhol.work@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ArunavaBhol&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ArunavaBhol&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArunavaBhol&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArunavaBhol&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ArunavaBhol&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://api.iconify.design/ph/cpu-bold.svg?color=%2338BDF8" width="28" /> Tech Arsenal
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<br/><br/><br/>
+
+<table>
+<tr>
+<td align="center">
+
+**💻 Core Languages & Logic**
+
+<table>
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="80" /><br/><b>C</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="80" height="80" /><br/><b>C++</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" height="80" /><br/><b>Java</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80" /><br/><b>Python</b></td>
+</tr>
+</table>
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🐧 Systems & Scripting**
+
+<table>
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="80" height="80" /><br/><b>Linux</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="80" height="80" /><br/><b>Bash</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80" height="80" /><br/><b>Git</b></td>
+</tr>
+</table>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🗄️ Web & Databases**
+
+<table>
+<tr>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" height="80" /><br/><b>HTML5</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="80" height="80" /><br/><b>SQL</b></td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80" height="80" /><br/><b>MySQL</b></td>
+</tr>
+</table>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/><br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+</div>
+
 ---
 
-<!--
-**ArunavaBhol/ArunavaBhol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Achievements & Milestones
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="50%" valign="top" align="center" style="padding: 20px;">
+<h3><img src="https://api.iconify.design/ph/medal-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle;" /> Codeforces Specialist</h3>
+<p>Continuously optimizing algorithmic logic and climbing the global ranks. Current long-term goal: <b>Candidate Master (Violet)</b>.</p>
+</td>
+<td width="50%" valign="top" align="center" style="padding: 20px;">
+<h3><img src="https://api.iconify.design/ph/code-bold.svg?color=%2322C55E" width="28" style="vertical-align: middle;" /> TCS CodeVita Season 13</h3>
+<p>Successfully cleared <b>both rounds</b> of the global competition by conquering complex pathfinding and simulation problems in C.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%23EAB308" width="28" /> Featured Projects - Built With Passion
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="border: none; padding-right: 5px;">
+<img src="https://api.iconify.design/ph/brain-bold.svg?color=%2338BDF8" width="24" />
+</td>
+<td style="border: none;">
+<a href="PUT_YOUR_DREAMSENSE_REPO_LINK_HERE">
+<img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=22&color=38BDF8&vCenter=true&width=150&height=30&lines=DreamSense&repeat=false" alt="DreamSense" />
+</a>
+</td>
+</tr>
+</table>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo" width="120" height="120"/>
+</div>
+
+<br/>
+
+**EEG-Based Trauma Rehab Framework**
+
+• Analyzes EEG signals for subconscious stressors  
+• Bypasses verbal communication barriers  
+• Designed for IDEAPOLIS'26 Hackathon  
+
+`C++` `IoT Integration` `Neural Processing` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="border: none; padding-right: 5px;">
+<img src="https://api.iconify.design/ph/file-text-bold.svg?color=%2322C55E" width="24" />
+</td>
+<td style="border: none;">
+<a href="PUT_YOUR_OCR_REPO_LINK_HERE">
+<img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=22&color=22C55E&vCenter=true&width=180&height=30&lines=Automated+OCR&repeat=false" alt="OCR System" />
+</a>
+</td>
+</tr>
+</table>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="OpenCV Logo" width="120" height="120"/>
+</div>
+
+<br/>
+
+**Automated OCR Data Entry System**
+
+• Converts unstructured documents to structured data  
+• Built using Tesseract and Pandas integrations  
+• Eliminates manual data entry overhead  
+
+`Python` `OpenCV` `Tesseract` `Data Science`
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+## <img src="https://api.iconify.design/ph/chart-bar-bold.svg?color=%2338BDF8" width="28" /> GitHub Analytics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ArunavaBhol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ArunavaBhol&theme=tokyo-night&hide_border=true"
+  alt="Contribution Graph"
+/>
+
+</div>
+
+---
+
+## <img src="https://api.iconify.design/ph/link-bold.svg?color=%2338BDF8" width="28" /> Connect & Follow My Journey
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="80%">
+    <tr>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://api.iconify.design/ph/device-mobile-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle; margin-right: 10px;" />
+        <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=22&color=38BDF8&vCenter=true&width=150&height=30&lines=Social+Media&repeat=false" alt="Social Media" style="vertical-align: middle;" />
+        <br/><br/>
+        <a href="YOUR_LINKEDIN_URL_HERE">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="YOUR_INSTAGRAM_URL_HERE">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 20px;">
+        <img src="https://api.iconify.design/ph/envelope-simple-bold.svg?color=%2306B6D4" width="28" style="vertical-align: middle; margin-right: 10px;" />
+        <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=22&color=06B6D4&vCenter=true&width=190&height=30&lines=Let%27s+Collaborate&repeat=false" alt="Let's Collaborate" style="vertical-align: middle;" />
+        <br/><br/>
+        <a href="mailto:YOUR_EMAIL_ADDRESS_HERE">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://api.iconify.design/ph/book-open-text-bold.svg?color=%2338BDF8" width="28" /> Content & Learning
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/source-code.png" alt="CP"/>
+        <br><strong>Competitive Programming</strong>
+        <br>Continuously optimizing logic & climbing ranks on Codeforces
+        <br><em>Efficiency • Speed</em>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/artificial-intelligence.png" alt="Projects"/>
+        <br><strong>Hardware & AI Systems</strong>
+        <br>Bridging the gap between physical signals and intelligent software
+        <br><em>Build → Test → Innovate</em>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/design.png" alt="Self Study"/>
+        <br><strong>Creative Storytelling</strong>
+        <br>Building a personal brand through technical writing and aesthetic design
+        <br><em>Clarity over complexity</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## <img src="https://api.iconify.design/ph/lightbulb-filament-bold.svg?color=%23EAB308" width="28" /> Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Always%20eager%20to%20learn%2C%20build%2C%20and%20grow%20-%20aiming%20to%20transform%20my%20skills%20into%20impactful%20real-world%20applications.&author=Arunava%20Bhol&border=true" alt="Philosophy Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=120&section=footer&animation=fadeIn"
+    width="100%"
+  />
+  
+  ### <img src="https://api.iconify.design/ph/rocket-bold.svg?color=%2338BDF8" width="24" /> Ready to build something amazing together?
+  
+  <img 
+  src="https://komarev.com/ghpvc/?username=ArunavaBhol&label=Profile%20Views&color=0EA5E9&style=for-the-badge"
+  alt="Profile Views"
+/>
+  
+  **<img src="https://api.iconify.design/ph/star-bold.svg?color=%23EAB308" width="20" /> Star my repositories if you find them helpful!!**
+  
+</div>
