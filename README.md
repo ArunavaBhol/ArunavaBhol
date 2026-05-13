@@ -24,25 +24,7 @@
 ## <img src="https://api.iconify.design/ph/lightning-bold.svg?color=%2338BDF8" width="28" /> What Drives Me
 
 <div align="center">
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Arunava Bhol"
-        self.role = "3rd-Year BTech CSE Student @ Techno India University"
-        self.core_skills = ["C/C++", "Linux/Bash", "Java", "Python"]
-        
-    def get_milestones(self):
-        return {
-            "competitive_programming": "Specialist on Codeforces",
-            "hackathons": "Cleared Both Rounds of TCS CodeVita Season 13",
-            "active_project": "DreamSense (EEG-based trauma rehab framework)",
-            "long_term_goal": "Reach Candidate Master (Violet) on CF"
-        }
-
-me = Developer()
-```
-
+  <img src="assets/snap_canva_edt.png" width="900" alt="My Python Bio" />
 </div>
 
 ---
