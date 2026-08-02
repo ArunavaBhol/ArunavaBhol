@@ -5,7 +5,7 @@
 <div align="center">
   <br/>
   <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Specialist+on+Codeforces;Cleared+TCS+CodeVita+(Both+Round+1+and+2);Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=00BFFF&center=true&vCenter=true&width=700&lines=3rd-Year+BTech+CSE+Student;Expert+on+Codeforces;Cleared+TCS+CodeVita+(Both+Round+1+and+2);Building+DreamSense+(EEG+%2B+AI);C%2B%2B+%26+Linux+Developer" alt="Typing SVG" />
   </a>
   <br/>
   <p>
@@ -107,7 +107,7 @@
 <table>
 <tr>
 <td width="50%" valign="top" align="center" style="padding: 20px;">
-<h3><img src="https://api.iconify.design/ph/medal-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle;" /> Codeforces Specialist</h3>
+<h3><img src="https://api.iconify.design/ph/medal-bold.svg?color=%2338BDF8" width="28" style="vertical-align: middle;" /> Codeforces Expert</h3>
 <p>Continuously optimizing algorithmic logic and climbing the global ranks. Current long-term goal: <b>Candidate Master (Violet)</b>.</p>
 </td>
 <td width="50%" valign="top" align="center" style="padding: 20px;">
